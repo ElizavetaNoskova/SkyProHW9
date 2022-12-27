@@ -13,6 +13,7 @@ public class Main {
         String fullName = lastName +" "+ firstName + " "+ middleName;
         System.out.println(fullName);
     }
+
     public static void task2() {
         System.out.println("Задача 2");
         String fullName = "Ivanov Ivan Ivanovich";
